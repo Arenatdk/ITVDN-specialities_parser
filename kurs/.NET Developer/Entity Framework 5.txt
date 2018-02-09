@@ -1,0 +1,54 @@
+1  Введение в EF
+       0:00:00 Вступление
+       0:00:35 Объектно-реляционное отображение
+       0:08:02 Entity Framework. Архитектура
+       0:10:52 Создание моделей
+       0:17:02 Entity Framework. Возможности
+       0:17:47 Создание моделей. DataBase_First
+       0:26:17 Создание моделей. Model_First
+       0:44:27 Создание запроса к модели
+       0:47:40 Подведение итогов
+2  Обзор Entity Data Model
+       0:00:00 Рассмотрение Entity Data Model
+       0:03:50 Слои EDM
+       0:07:33 Создание подключения к EDM
+       0:12:37 EDMCodeGeneration
+       0:23:07 отображение данных с помощью EF
+       0:26:58 Создание представлений
+       0:30:15 Работа с хранимыми процедурами
+       0:33:15 Работа с PartialClass
+       0:36:45 Удаление данных
+       0:39:15 Добавление данных
+       0:42:03 Работа со связью один к одному
+       0:54:23 Работа со связью один ко многим
+       0:59:38 Работа со связью много к многим
+3  Основы LINQ 2 Entities
+       0:00:00 Основы работы с LINQ 2 Entities
+       0:09:40 Работа с LINQ2Objects
+       0:16:17 Работа c LINQ2ObjectsStatic
+       0:18:50 Работа с LINQ2EF
+       0:26:26 ServerQuery
+       0:33:55 LocalQuery
+       0:36:18 Работа с методом First
+       0:39:38 FilterAndSort
+       0:44:07 Projection
+       0:45:40 Вложенные запросы
+       0:48:15 LazyLoad
+       0:57:00 EagerLoad
+       0:58:30 StrictLoad
+4  Code-first
+       0:00:00 Обзор Code-first (CF)
+       0:12:55 DataAnnotations: KeyAttribute
+       0:15:03 DataAnnotations: RequiredAttribute
+       0:18:20 DataAnnotations: MinLength и MaxLength
+       0:18:58 DataAnnotations: NotMappedAttribute
+       0:20:07 DataAnnotations: ComplexTypeAtttibute
+       0:23:48 DataAnnotations: ConcurrencyCheck Attribute
+       0:27:37 DataAnnotations: TimeStampAttribute
+       0:29:36 DataAnnotations: TableAttribute и ColumnAttribute
+       0:31:40 CF_CreateDB
+       0:33:32 CF_DropCreateDB. Атрибуты DataAnnotations
+       0:55:38 Инициализация БД вручную.  CF_ CustomInitialize
+       1:00:38 FluentAPI: ModelBuilder vs Confiruration
+       1:25:20 Code-first. Связь один ко многим.
+       1:39:00 Code-first. Связь многие ко многим.

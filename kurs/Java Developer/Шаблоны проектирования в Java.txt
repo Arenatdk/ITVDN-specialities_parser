@@ -1,0 +1,13 @@
+1  Введение в паттерны проектирования
+2  Singleton
+3  Factory Method
+4  Prototype
+5  Builder
+6  Abstract Factory
+7  Adapter
+8  Facade
+9  Composite
+10  Decorator
+11  Proxy
+12  Bridge
+13  Flyweight

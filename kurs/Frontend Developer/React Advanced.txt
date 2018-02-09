@@ -1,0 +1,8 @@
+1  Redux Introduction
+2  Настройка окружения
+3  Redux practice. Part 1
+4  Redux practice. Part 2
+5  Redux – final part
+6  Оптимизация и производительность React приложений
+7  Тестирование React и Redux
+8  Изоморфные приложения на React и  Server Side Rendering

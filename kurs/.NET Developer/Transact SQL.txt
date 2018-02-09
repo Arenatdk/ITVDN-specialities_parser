@@ -1,0 +1,14 @@
+1  Знакомство с SQL. Типы данных.
+2  DDL, DML
+3  SELECT. Условия выборки
+4  Built-in Functions. Scalar Functions
+5  System Catalog. Aggregate functions
+6  Целостность данных. Первичный, внешний ключ
+7  Нормализация БД
+8  Соединение таблиц. JOINs
+9  Операторы работы с наборами. Представления
+10  Subquery, Temporary table, Common table expression
+11  Индексы
+12  Поцедурный язык Transact-SQL
+13  Хранимые процедуры. Пользовательские функции.
+14  Транзакции. Триггеры.

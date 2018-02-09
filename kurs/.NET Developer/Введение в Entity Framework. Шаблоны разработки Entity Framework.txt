@@ -1,0 +1,7 @@
+1  Шаблоны разработки Entity Framework 
+       0:00:38 Чем удобен Entity Framework
+       0:05:04 Немного о ERM-системах
+       0:08:26 Entity Data Model
+       0:13:39 Шаблоны разработки Entity Framework
+       0:16:40 Шаблон Model First на примере
+       0:40:41 Шаблон Database First на примере
